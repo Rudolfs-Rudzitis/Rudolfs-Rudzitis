@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @Rudolfs-Rudzitis
+👋 Hello! My name is Rudolfs.
 - 👀 I’m interested in Ptyhon, Data Analytics
-- 🌱 I’m currently learning Python 3.0
-- 💞️ I’m looking to collaborate on creating a Discord bot that is connected to a databese (text) 
-      and can take from it the first line text that contains keyword entered by user. 
-- 📫 Reach me by sending an e-mail.
+- 🌱 I’m currently learning Pyhton 3.0, SQL, Excel.
+- 📫 Reach me here: https://www.linkedin.com/in/rudolfs-rudzitis-764a14177/
 
 <!---
 Rudolfs-Rudzitis/Rudolfs-Rudzitis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
