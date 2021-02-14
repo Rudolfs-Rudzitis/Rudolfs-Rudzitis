@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rudolfs-Rudzitis
-- 👀 I’m interested in Data Analytics
+- 👀 I’m interested in Ptyhon, Data Analytics
 - 🌱 I’m currently learning Python 3.0
 - 💞️ I’m looking to collaborate on creating a Discord bot that is connected to a databese (text) 
       and can take from it the first line text that contains keyword entered by user. 
