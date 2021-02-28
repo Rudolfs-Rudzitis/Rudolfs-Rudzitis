@@ -1,9 +1,11 @@
 👋 Hello! My name is Rudolfs.
-- 👀 I’m interested in Back End Development & Data Analytics.
-      Currently working on latest projects:
-      ..
-      ..
-- 🌱 I’m currently learning Pyhton 3.0, SQL, Power BI.
+- 👀 I’m interested in Data Analytics & Back End Development.
+      
+      Currently working on latest project:
+      "KHL season 2018-2019 Analysis"
+      
+- 🌱 Now I'm learning Pyhton 3.0 and SQL.
+- Familiar with PyCharm, Jupyter Notebook, Repl.it, Pandas, NumPy, Matplotlib, Seaborn, BeautifulSoup, Selenium WebDriver.
 - 📫 Reach me here: https://www.linkedin.com/in/rudolfs-rudzitis-764a14177/
 
 <!---
