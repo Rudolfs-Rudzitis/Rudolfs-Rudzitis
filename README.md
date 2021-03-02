@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analytics & Back End Development.
       
       Currently working on latest project:
-      "KHL season 2018-2019 Analysis"
+      "Project-3-EDA-of-KHL"
       
 - 🌱 Now I'm learning Pyhton 3.0 and SQL.
 - Familiar with PyCharm, Jupyter Notebook, Repl.it, Pandas, NumPy, Matplotlib, Seaborn, BeautifulSoup, Selenium WebDriver.
