@@ -1,12 +1,11 @@
-👋 Hello! My name is Rudolfs.
-- 👀 I’m interested in Data Analytics & Back End Development.
+###👋 Hello! My name is Rudolfs. 
+- 🚧  Currently working on: "Electrum automated meter reading submition".
+- - 🙋‍♂️  I’m interested in Data Analytics & Back End Development.
+- 👉 Now I'm learning Pyhton 3.0 and SQL.
+- 🦾 Familiar with PyCharm, Jupyter Notebook, Pandas, NumPy, Matplotlib, BeautifulSoup, Selenium WebDriver.
+
       
-      Currently working on latest project:
-      Project-5 "Electrum automated meter reading submition".
-      
-- 🌱 Now I'm learning Pyhton 3.0 and SQL.
-- Familiar with PyCharm, Jupyter Notebook, Repl.it, Pandas, NumPy, Matplotlib, Seaborn, BeautifulSoup, Selenium WebDriver.
-- 📫 Reach me by calling +371 26227763 or writing an email: rudolfs.rudzitis@gmail.com or find @ LinkedIn https://www.linkedin.com/in/rudolfs-rudzitis-764a14177/ 
+#### 📫 Reach me by writing an email: rudolfs.rudzitis@gmail.com or find @ LinkedIn https://www.linkedin.com/in/rudolfs-rudzitis-764a14177/
 
 <!---
 Rudolfs-Rudzitis/Rudolfs-Rudzitis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
