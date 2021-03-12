@@ -7,7 +7,7 @@
       
 #### 📫 Reach me by writing an email: rudolfs.rudzitis@gmail.com or 
 
-### find @ LinkedIn https://ej.uz/Rudolfa_Rudzisa_LinkedIn
+#### find @ LinkedIn https://ej.uz/Rudolfa_Rudzisa_LinkedIn
 
 <!---
 Rudolfs-Rudzitis/Rudolfs-Rudzitis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
