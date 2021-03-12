@@ -1,6 +1,6 @@
 ### 👋 Hello! My name is Rudolfs. 
-- 🚧  Currently working on: "Electrum automated meter reading submition".
 - 👱‍I’m interested in Data Analytics & Back End Development.
+- 🚧  Currently working on: "Electrum automated meter reading submition".
 - 👉 Now I'm learning Pyhton 3.0 and SQL.
 - 🦾 Familiar with PyCharm, Jupyter Notebook, Pandas, NumPy, Matplotlib, BeautifulSoup, Selenium WebDriver.
 
