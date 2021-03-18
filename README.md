@@ -1,6 +1,6 @@
 ### 👋 Hello! My name is Rudolfs. 
 - 👱‍I’m an aspiring data analyst. 
-- 🚧  Currently working on: "Electrum automated meter reading submition".
+- 🚧  Currently working on: "Electrum automated meter reading submition"
 - 👉 Now I'm learning Pyhton 3.0 and SQL.
 - 🦾 Familiar with PyCharm, Jupyter Notebook, Pandas, NumPy, Matplotlib, BeautifulSoup, Selenium WebDriver.
 
